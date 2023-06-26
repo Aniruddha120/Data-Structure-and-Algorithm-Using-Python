@@ -7,4 +7,5 @@ The codes will be stored either in notebook or .py format.
 References:
 
 [1] https://docs.python.org/3/tutorial/datastructures.html
+
 [2] https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/ch01.html
